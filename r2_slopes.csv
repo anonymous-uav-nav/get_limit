@@ -1,0 +1,5 @@
+arm,n_swarm,slope,ci_lo,ci_hi,verdict
+control,100,-0.975,-1.3,-0.625,positive control reproduced (slope < 0)
+control,400,-0.05,-0.25,0.15,FLIP ABSENT: slope is not positive on the non-saturating grid
+A1,100,13.8,11.199375,16.175,reference
+A1,400,-1.225,-5.050625,1.900625,"UNINTERPRETABLE: A1 only tests the mediator if the control arm shows the flip first, and it does not"
